@@ -4,4 +4,4 @@ pymongo
 python-dotenv
 passlib[bcrypt]
 python-jose
-cv2
+opencv-python
