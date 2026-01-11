@@ -6,3 +6,6 @@ passlib[bcrypt]
 python-jose
 opencv-python-headless
 tensorflow
+numpy
+Pillow
+python-multipart
